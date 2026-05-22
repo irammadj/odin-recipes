@@ -1,1 +1,1 @@
-# Recipes
+odin-recipes
